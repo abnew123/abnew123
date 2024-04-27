@@ -1,20 +1,15 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abnew123)](https://git.io/streak-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abnew123)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnew123)](https://github.com/anuraghazra/github-readme-stats)
+###### [📊️ Main statistics](#-Main-statistics)
 
-<!--
-**abnew123/abnew123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=abnew123&color=green) - (Starting April 26th, 2024)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| GitHub Stats |
+|---|
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=abnew123)](https://git.io/streak-stats) |
+| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=abnew123)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnew123)](https://github.com/anuraghazra/github-readme-stats) |
+
+</details> <!-- End of main statistics section !-->
